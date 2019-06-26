@@ -1,3 +1,6 @@
+# This project has moved
+This project has moved to [YubicoLabs/java-webauthn-passwordless-workshop](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop). Please go to the YubicoLabs repository for the latest version.
+
 # Securing a Website with Passwordless Authentication
 In this workshop you will build a simple web application that enables users to register a security key and then use the security key to sign in without typing in a username or password.
 
